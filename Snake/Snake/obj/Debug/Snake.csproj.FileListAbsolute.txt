@@ -1,1 +1,6 @@
 C:\Users\Valentinka\GitProjects\Snake\Snake\bin\Debug\Snake.exe.config
+C:\Users\Valentinka\GitProjects\Snake\Snake\bin\Debug\Snake.exe
+C:\Users\Valentinka\GitProjects\Snake\Snake\bin\Debug\Snake.pdb
+C:\Users\Valentinka\GitProjects\Snake\Snake\obj\Debug\Snake.csprojResolveAssemblyReference.cache
+C:\Users\Valentinka\GitProjects\Snake\Snake\obj\Debug\Snake.exe
+C:\Users\Valentinka\GitProjects\Snake\Snake\obj\Debug\Snake.pdb
